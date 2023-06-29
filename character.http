@@ -1,0 +1,6 @@
+get http://localhost:3000/character
+
+# Get a character by id
+get  http://localhost:3000/character/7717
+
+
